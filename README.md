@@ -1,1 +1,1 @@
-# captcha-solver6_abc123
+# This is a test repository for github pages deployment
